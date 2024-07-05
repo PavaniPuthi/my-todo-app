@@ -1,4 +1,4 @@
-ChatGPT
+
 Certainly! Below is a template for a README file tailored to your React To-Do App. This README provides an overview of the application, instructions for setup, usage, and additional information.
 
 React To-Do App
