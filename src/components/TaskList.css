@@ -19,6 +19,7 @@ li{
     font-weight:800;
     font-family: sans-serif;
     border:3px solid pink;
+    font-size:20px;
 }
 
 .todo-styling{
@@ -27,4 +28,14 @@ li{
     color:deeppink;
     font-weight: 800;
 }
+@media screen and (min-width:768px) {
+    .button-styling{
+        font-size:30px;
+    }
+    .todo-styling{
+        font-size:30px;
+    }
+}
+
+
 
